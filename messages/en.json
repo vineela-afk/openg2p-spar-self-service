@@ -1,0 +1,76 @@
+{
+  "@language_title_en": "English",
+  "@flag_url_en": "/img/flag_en.png",
+
+  "@language_title_fr": "Français",
+  "@flag_url_fr": "/img/flag_fr.png",
+
+  "@language_title_tl": "Tagalog",
+  "@flag_url_tl": "/img/flag_tl.png",
+
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!"
+  },
+  "Navigation": {
+    "support": "Support",
+    "contact": "Contact"
+  },
+  "ProfileSet": {
+    "profile": "My profile",
+    "log_out": "Log out"
+  },
+
+  "Update": {
+    "update": "Update your account information",
+    "bank": "Bank",
+    "mobile_wallet": "Mobile Wallet",
+    "mpesa": "Mpesa",
+    "submit": "SUBMIT"
+  },
+  "Footer": {
+    "copyright": "© 2024 Your App. All rights reserved."
+  },
+  "Status": {
+    "thankyou": "Thank You",
+    "status_message": "Your account information is updated successfully"
+  },
+  "Delete": {
+    "delete": "Removed",
+    "status_message": "Your account details removed successfully"
+  },
+  "Profile": {
+    "name": "Name",
+    "ph_no": "Phone Number",
+    "email": "Email",
+    "dob": "Date of Birth",
+    "gender": "Gender",
+    "add": "Address",
+    "locality":"Locality",
+    "street_address": "Street Address",
+    "country": "Country",
+    "region": "Region",
+    "postal_code": "Postal Code"
+  },
+  "login": {
+    "title": " Social Payments Account Registry",
+    "description_1": "With SPAR, choose the account/wallet where you receive your",
+    "description_2": "social benefits in a simple, convenient, secure way",
+    "PROCEED WITH NATIONAL ID": "PROCEED WITH NATIONAL ID"
+  },
+  "home": {
+    "title": " Your account information",
+    "title_2": "Welcome to SPAR!",
+    "description": "Your account details are not mapped to the beneficiary program. Please choose where you want to recieve your cash benefits and update your account details",
+    "button_text": "UPDATE YOUR ACCOUNT DETAILS",
+    "button_text2": "Modify Account Details",
+    "button_text3": "Remove Account",
+    "bank": "Bank",
+    "branch": "Branch",
+    "account": "Account Number",
+    "mobile_provider": "Mobile Provider",
+    "mobile_number": "Mobile Number",
+    "email_provider": "Email Provider",
+    "email": "Email"
+  }
+}

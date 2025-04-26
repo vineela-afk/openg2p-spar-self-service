@@ -1,0 +1,75 @@
+{
+  "@language_title_en": "English",
+  "@flag_url_en": "/img/flag_en.png",
+
+  "@language_title_fr": "Français",
+  "@flag_url_fr": "/img/flag_fr.png",
+
+  "@language_title_tl": "Tagalog",
+  "@flag_url_tl": "/img/flag_tl.png",
+
+  "NotFoundPage": {
+    "title": "Hindi Natagpuang Pahina",
+    "description": "Oops! Mukhang napadpad ka sa isang pahinang hindi umiiral. Huwag mag-alala, ang ating mahiwagang internationalization ay patuloy na nagtatrabaho sa ibang bahagi ng app. Huwag mag-atubiling bumalik para mas tuklasin!"
+  },
+  "Navigation": {
+    "support": "Suporta",
+    "contact": "Kontakto"
+  },
+  "ProfileSet": {
+    "profile": "Aking Profile",
+    "log_out": "Mag-logout"
+  },
+  "Update": {
+    "update": "I-update ang iyong impormasyon sa account",
+    "bank": "Bangko",
+    "mobile_wallet": "Mobile Wallet",
+    "mpesa": "Mpesa",
+    "submit": "ISUMITE"
+  },
+  "Footer": {
+    "copyright": "© 2024 Ang Iyong App. Lahat ng karapatan ay nakalaan."
+  },
+  "Status": {
+    "thankyou": "Salamat",
+    "status_message": "Matagumpay na Na-update ang Iyong Impormasyon sa Account"
+  },
+  "Delete": {
+    "delete": "Tanggalin",
+    "status_message": "Matagumpay na tinanggal ang mga detalye ng iyong account"
+  },
+  "Profile": {
+    "name": "Pangalan",
+    "ph_no": "Numero ng Telepono",
+    "email": "Email",
+    "dob": "Petsa ng Kapanganakan",
+    "gender": "Kasarian",
+    "add": "Address",
+    "locality": "Lokalidad",
+    "street_address": "Alamat sa Kalye",
+    "country": "Bansa",
+    "region": "Rehiyon",
+    "postal_code": "Kodigo ng Zip"
+  },
+  "login": {
+    "title": "Rehistro ng Social Payments Account",
+    "description_1": "Sa SPAR, pumili ng account/wallet kung saan mo natatanggap ang iyong",
+    "description_2": "mga social benefits sa isang simple, mabilis, at ligtas na paraan",
+    "PROCEED WITH NATIONAL ID": "MAGPATULOY GAMIT ANG NATIONAL ID"
+  },
+  "home": {
+    "title": "Iyong impormasyon sa account",
+    "title_2": "Maligayang pagdating sa SPAR!",
+    "description": "Ang iyong mga detalye sa account ay hindi naka-associate sa beneficiary program. Mangyaring pumili kung saan mo nais na makatanggap ng iyong cash benefits at i-update ang iyong account details",
+    "button_text": "I-UPDATE ANG MGA DETALYE NG INYONG ACCOUNT",
+    "button_text2": "I-UPDATE",
+    "button_text3": "Tanggalin ang Account",
+    "bank": "Bangko",
+    "branch": "Sangay",
+    "account": "Numero ng Account",
+    "mobile_provider": "Tagapagbigay ng Mobile",
+    "mobile_number": "Numero ng Mobile",
+    "email_provider": "Tagapagbigay ng Email",
+    "email": "Email"
+  }
+}
